@@ -1,0 +1,8 @@
+{
+  "presets": ["env", [
+    "linaria/babel",
+    {
+      "outDir": "./lib"
+    }
+  ]]
+}
